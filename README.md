@@ -12,5 +12,13 @@ Opensource work done for my mentorship program Delta Winter of Code
 
 ->> Data visualization   : Plotted graphs to visualize the  relations of user, ratings, and movies.
 
+![Screenshot (1632)](https://user-images.githubusercontent.com/88154798/144350331-0513ef11-908d-4f02-ae51-81695c6c8a00.png)
+
+Here red line signifies minimum count of votes should be given to a movie by users for it to be considered in recommendation system.
+
+![Screenshot (1633)](https://user-images.githubusercontent.com/88154798/144350342-a433275e-7080-4d53-a72c-48ae4e8816cf.png)
+
+Here red line signifies minimum count of votes should be given by users for it to be considered in recommendation system.
+
 ->> Model Used           : KNN based model was used where K signifies number of movies to be recommended.
 
