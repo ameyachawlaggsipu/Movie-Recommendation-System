@@ -22,3 +22,9 @@ Here red line signifies minimum count of votes should be given by users for it t
 
 ->> Model Used           : KNN based model was used where K signifies number of movies to be recommended.
 
+## Output:
+Sample output obtained for testcase "Fight Club"
+
+
+
+![Screenshot (1634)](https://user-images.githubusercontent.com/88154798/144350780-fe43bda9-35ff-48a8-a647-531c3fa86481.png)
